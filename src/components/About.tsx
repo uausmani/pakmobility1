@@ -107,7 +107,7 @@ const About = () => {
                  <img 
                    src={evAboutImage}
                    alt="Electric vehicle" 
-                   className="object-cover w-full h-full rounded-xl"
+                   className="object-contain w-full h-full rounded-xl bg-pakmobility-navy"
                    loading="lazy"
                    width={1000}
                    height={562}
